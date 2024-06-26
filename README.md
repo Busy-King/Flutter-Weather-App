@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+A Flutter Weather App with search bar functionality.
 
 ## Getting Started
 
